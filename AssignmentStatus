@@ -4,27 +4,27 @@ create a folder subjectwise and upload the same example.
 
 Core Java:
 -----------
-Menu Example
+Menu Example                   Y
 
 Check default value of instance vars
 
 Menu example using methods
 
-Employee array using for loop
+Employee array using for loop        Y
 
-Student array example (int rollno, String name, String[] courseNames)
+Student array example (int rollno, String name, String[] courseNames)          Y
 
 Inheritance practice with constructor
 
 package example practice
 
-**First Project (Student Project:classes and objects, package, naming convention, validation)
+**First Project (Student Project:classes and objects, package, naming convention, validation)        Y
 
-Method overloading
+Method overloading                  Y
 
-Method overriding
+Method overriding              Y
 
-upcasting and downcasting
+upcasting and downcasting          Y
 
 abstract class and interface
 
@@ -39,9 +39,9 @@ add objects in HashMap and display the same
 
 Collection(MCQ)
 
-**Second project assignment(Banking:exception handling, collection)
+**Second project assignment(Banking:exception handling, collection)    Y
 
-**Second project enhancement using synchronized(Banking:Multithreading)
+**Second project enhancement using synchronized(Banking:Multithreading)    Y
 
 wait and notify
 
@@ -54,7 +54,7 @@ Inheritance Interview Questions:
 https://www.youtube.com/watch?v=LmX-gOX48po&t=359s (Duration:14 mins)
 
 
-**Third project(Banking:Junit, Mockito framework, interface, layered architecture)
+**Third project(Banking:Junit, Mockito framework, interface, layered architecture)      Y
 
 JDBC CRUD operation with database
 
@@ -74,11 +74,11 @@ Authentication Example(checking user id and password)
 
 Core Spring:
 --------------
-setter and constructor injection
+setter and constructor injection     Y
 
-Autowired
+Autowired                       Y
 
-Component
+Component                    Y
 
 Java based configuration
 
@@ -95,13 +95,13 @@ https://www.youtube.com/watch?v=XIFNWFxW49E (9 mins)
 
 Spring Boot:
 -------------
-Spring Boot with REST with JPA CRUD operation(get,post,put,delete)
+Spring Boot with REST with JPA CRUD operation(get,post,put,delete)    Y
 
 Custom query
-    e.g. how to find out employees whose salary between 40k to 80k
+    e.g. how to find out employees whose salary between 40k to 80k          Y
 
 Exception handling
-    Use : @ControllerAdvice/@RestControllerAdvice, @ExceptionHandler, ResponseEntity
+    Use : @ControllerAdvice/@RestControllerAdvice, @ExceptionHandler, ResponseEntity       Y
 
 Actuator example
 
@@ -110,10 +110,10 @@ Autoconfiguration example
 Profile example
 
 **Fourth Project
-With Employee :
-getall, get by id, post, put, delete
-custom query:salary >50 k
-exception handling: Employee not found
+With Employee :    Y
+getall, get by id, post, put, delete    Y
+custom query:salary >50 k       Y
+exception handling: Employee not found     Y
 Junit testing
 
 Spring Boot Interview Questions (27 mins)
