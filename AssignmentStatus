@@ -26,7 +26,7 @@ Method overriding              Y
 
 upcasting and downcasting          Y
 
-abstract class and interface
+abstract class and interface    Y
 
 Test inheritance (MCQ)
 
@@ -56,14 +56,14 @@ https://www.youtube.com/watch?v=LmX-gOX48po&t=359s (Duration:14 mins)
 
 **Third project(Banking:Junit, Mockito framework, interface, layered architecture)      Y
 
-JDBC CRUD operation with database
+JDBC CRUD operation with database      Y
 
 Java 8
 -------
 Java 8 Lambda example
-Java 8 Stream API example
-Journey from Jdk1.0 to 1.7 from Java 8 Repo
-Java 8 Depth Notes from Java8 Repo
+Java 8 Stream API example     Y
+Journey from Jdk1.0 to 1.7 from Java 8 Repo  Y 
+Java 8 Depth Notes from Java8 Repo            Y
 Developers Life Easy project from Java8 Repo
 
 Servlet:
@@ -105,16 +105,16 @@ Exception handling
 
 Actuator example
 
-Autoconfiguration example
+Autoconfiguration example    Y
 
-Profile example
+Profile example    
 
 **Fourth Project
 With Employee :    Y
 getall, get by id, post, put, delete    Y
 custom query:salary >50 k       Y
 exception handling: Employee not found     Y
-Junit testing
+Junit testing              Y
 
 Spring Boot Interview Questions (27 mins)
 https://www.youtube.com/watch?v=RvI5OhVT1ZY
